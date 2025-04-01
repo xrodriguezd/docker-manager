@@ -12,11 +12,17 @@ Docker Manager es una herramienta web que te permite:
 -   Ver logs de los contenedores en tiempo real
 -   Monitorear el tiempo restante de cada contenedor
 
+![main](main.png)
+
+![logs](logs.png)
+
 ## Requisitos
 
 -   Docker instalado en tu sistema
 -   Node.js (versión 14 o superior)
 -   npm (gestor de paquetes de Node.js)
+
+
 
 ## Instalación
 
